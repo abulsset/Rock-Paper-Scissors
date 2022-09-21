@@ -1,0 +1,67 @@
+/* Tess Luba, July, 2022 */
+
+body{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+form {
+    margin: 10px;
+}
+#button {
+    margin: 10px;
+}
+#choice {
+    display: none;
+    margin: 20px;
+}
+#score {
+    display: none;
+    margin: 10px;
+}
+#result {
+    display: none;
+    margin: 10px;
+}
+#instructions {
+    display: none;
+}
+footer {
+    margin-top: 100px;
+}
+#help {
+    margin: 25px;
+}
+#start {
+    margin: 10px;
+}
+#rock {
+    background-color: white;
+    margin: 15px;
+    border: none;
+}
+#paper {
+    background-color: white;
+    margin: 15px;
+    border: none;
+}
+#scissors {
+    background-color: white;
+    margin: 15px;
+    border: none;
+}
+#invalid {
+    margin: 10px;
+    font-size: 20px;
+    color: red;
+}
+#surround {
+    border-style:solid;
+    border: 1px solid black;
+    width: 400px;
+    margin: auto;
+    background-color: white;
+}
+body {
+    background-color: white;
+}
